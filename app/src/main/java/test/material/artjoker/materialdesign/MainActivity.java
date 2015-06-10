@@ -47,7 +47,6 @@ public class MainActivity extends ActionBarActivity {
 
     private void initializeDrawer() {
         AccountHeader header = createAccountHeader();
-
         drawer = new DrawerBuilder()
                 .withActivity(this)
                 .withToolbar(toolbar)
