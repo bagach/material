@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Material Design</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="item1">Главная</string>
+    <string name="item2">Добавить объявление</string>
+    <string name="item3">Уведомления</string>
+    <string name="item4">Личный кабинет</string>
+    <string name="item5">Сообщения</string>
+    <string name="item6">Избранное</string>
+    <string name="item7">Выход</string>
+</resources>
